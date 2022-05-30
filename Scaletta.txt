@@ -1,2 +1,44 @@
 Scaletta progetto Interazione Uomo-Macchina
 -------------------------------------------
+Introduzione scenario
+Descrizione app 1
+Descrizione app 2
+Ambiente di valutazione
+Valutazione euristica:
+    - 3 esperti di dominio qualsiasi + 3 esperti di usabilità (noi))
+    - Composizione del campione (genere - professione - età - familiarità con le app)
+    - Valutazione olistica (si lascia gli esperti di dominio provare liberamente l'applicazione prima di sottoporgli glu user task)
+    - Valutazione di ogni euristica tramite euristhics checklist (appendice A)
+    - Valutazione severità tramite scheda di valutazione della severità (appendice B)
+    - Creazione tabella
+    - Categorizzazione in fasce di priortià con test binomiale
+    - Matrice problemi
+    - Distribuzione problemi per euristica (istogramma)
+    - Descrizione problemi più rilevanti
+Test utente:
+    - Creazione di 3 task
+        1° task: cercare la casa più economica in vendita vicino alla stazione di Milano Centrale con ascensore
+        2° task: cercare un ufficio in affitto a Monza visualizzando l'indirizzo su Google Maps
+        3° task: visualizzare la planimetria di una casa in vendita di Milano
+    - Lista utenti coinvolti (12 utenti)
+    - Composizione del campione (genere - professione - età - familiarità con le app)
+    - Indicazioni generali sui test statistici (efficacia, efficienza) + ipotesi nulla H0
+    - Matrice degli errori (successi (assistiti e non), insuccessi)
+    - Efficiacia task (con test esatto di fisher) e istogramma successi insuccessi
+    - Efficienza task (con T-Test per campioni dipendenti) e istogramma distribuzioni tempo esecuzione per utente
+Questionario:
+    - Scelta del questionario
+    - 24 utenti coinvolti (composizione del campione: genere - professione - età - familiarità con le app)
+    - Risultati per ogni domanda del questionario
+    - Confronto statistico tra i sistemi (test dei ranghi di segno di Wilcoxon a due code) mostrando risultati statisticamente significativi
+    - Analisi sottogruppi
+    - Analisi delle domande
+    - Distribuzione delle risposte
+    - Comparazione con i benchmark
+    - Net Promoter Score (descrizione e valutazione)
+- Appendice A (checklist delle valutazioni euristiche)
+- Appendice B (valutazione priorità dei problemi)
+- Appendice C (slide di presentazione dei task utente)
+- Appendice D (svolgimento ottimale dei task passo passo)
+- Appendice E (screenshot del questionario)
+- Appendice F (Raw data delle risposte al questionario)
